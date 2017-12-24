@@ -288,6 +288,7 @@ ul.chevron .submenu > a:after, ul.chevron .sub-submenu > a:after,ul.chevron .asi
 .l-10 {width:83.3333%;}
 .l-11 {width:90%;}
 .l-12 {width:100%;}
+.l-13 {width:66%;}
 .right {float:right;} 
 @media screen and (max-width:768px) {
 .size-960 {max-width:768px;}
